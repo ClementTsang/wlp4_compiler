@@ -10,7 +10,7 @@ WLP4 is a subset of C, with various limitations put in to make it more digestabl
 ## Where are the implementation/source files?  
 Unfortunately, I cannot and will not share the implementation files or specific details, due to the fact that this was an assignment that is most definitely done every term - sorry.  Nor will I share some of the files used in the middle, such as the ``.merl`` files as I do not know how much I can share.
 
-As such, this compiler is frankly quite useless other than generating assembly code as we cannot go from assembly  code -> machine code, as we require ``print.merl`` and ``alloc.merl`` to be linked for our code to work.
+As such, this compiler can only generate assembly code as we cannot go from assembly code to machine code, as we require ``print.merl`` and ``alloc.merl`` to be linked for our code to work.
 
 If you wish to ask about implementation, such as for an assignment or for general curiosity, contact me and I will be glad to be able to give you some tips and pointers, as well as general ideas, but unfortunately nothing specific.  Once again, sorry.
 
